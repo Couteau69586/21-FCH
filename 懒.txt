@@ -1,0 +1,3 @@
+linker.exe link1.txt link2.txt linkout.txt
+
+assembler.exe assemble1.txt assemble2.txt assembleout.txt
